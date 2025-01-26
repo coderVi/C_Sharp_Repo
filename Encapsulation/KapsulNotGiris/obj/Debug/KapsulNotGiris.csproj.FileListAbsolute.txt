@@ -1,0 +1,10 @@
+C:\Users\mrasm\source\repos\KapsulNotGiris\bin\Debug\KapsulNotGiris.exe.config
+C:\Users\mrasm\source\repos\KapsulNotGiris\bin\Debug\KapsulNotGiris.exe
+C:\Users\mrasm\source\repos\KapsulNotGiris\bin\Debug\KapsulNotGiris.pdb
+C:\Users\mrasm\source\repos\KapsulNotGiris\obj\Debug\KapsulNotGiris.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\KapsulNotGiris\obj\Debug\KapsulNotGiris.Form1.resources
+C:\Users\mrasm\source\repos\KapsulNotGiris\obj\Debug\KapsulNotGiris.Properties.Resources.resources
+C:\Users\mrasm\source\repos\KapsulNotGiris\obj\Debug\KapsulNotGiris.csproj.GenerateResource.cache
+C:\Users\mrasm\source\repos\KapsulNotGiris\obj\Debug\KapsulNotGiris.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\KapsulNotGiris\obj\Debug\KapsulNotGiris.exe
+C:\Users\mrasm\source\repos\KapsulNotGiris\obj\Debug\KapsulNotGiris.pdb

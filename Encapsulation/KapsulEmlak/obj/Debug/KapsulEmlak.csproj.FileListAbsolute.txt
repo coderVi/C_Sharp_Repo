@@ -1,0 +1,10 @@
+C:\Users\mrasm\source\repos\KapsulEmlak\bin\Debug\KapsulEmlak.exe.config
+C:\Users\mrasm\source\repos\KapsulEmlak\bin\Debug\KapsulEmlak.exe
+C:\Users\mrasm\source\repos\KapsulEmlak\bin\Debug\KapsulEmlak.pdb
+C:\Users\mrasm\source\repos\KapsulEmlak\obj\Debug\KapsulEmlak.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\KapsulEmlak\obj\Debug\KapsulEmlak.Form1.resources
+C:\Users\mrasm\source\repos\KapsulEmlak\obj\Debug\KapsulEmlak.Properties.Resources.resources
+C:\Users\mrasm\source\repos\KapsulEmlak\obj\Debug\KapsulEmlak.csproj.GenerateResource.cache
+C:\Users\mrasm\source\repos\KapsulEmlak\obj\Debug\KapsulEmlak.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\KapsulEmlak\obj\Debug\KapsulEmlak.exe
+C:\Users\mrasm\source\repos\KapsulEmlak\obj\Debug\KapsulEmlak.pdb

@@ -1,0 +1,10 @@
+C:\Users\mrasm\source\repos\OOPOdev2\obj\Debug\OOPOdev2.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\OOPOdev2\obj\Debug\OOPOdev2.Properties.Resources.resources
+C:\Users\mrasm\source\repos\OOPOdev2\obj\Debug\OOPOdev2.csproj.GenerateResource.cache
+C:\Users\mrasm\source\repos\OOPOdev2\obj\Debug\OOPOdev2.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\OOPOdev2\bin\Debug\OOPOdev2.exe.config
+C:\Users\mrasm\source\repos\OOPOdev2\bin\Debug\OOPOdev2.exe
+C:\Users\mrasm\source\repos\OOPOdev2\bin\Debug\OOPOdev2.pdb
+C:\Users\mrasm\source\repos\OOPOdev2\obj\Debug\OOPOdev2.Form1.resources
+C:\Users\mrasm\source\repos\OOPOdev2\obj\Debug\OOPOdev2.exe
+C:\Users\mrasm\source\repos\OOPOdev2\obj\Debug\OOPOdev2.pdb

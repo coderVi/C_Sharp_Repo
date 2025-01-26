@@ -1,0 +1,10 @@
+C:\Users\mrasm\source\repos\OOPKapsul\bin\Debug\OOPKapsul.exe.config
+C:\Users\mrasm\source\repos\OOPKapsul\bin\Debug\OOPKapsul.exe
+C:\Users\mrasm\source\repos\OOPKapsul\bin\Debug\OOPKapsul.pdb
+C:\Users\mrasm\source\repos\OOPKapsul\obj\Debug\OOPKapsul.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\OOPKapsul\obj\Debug\OOPKapsul.Form1.resources
+C:\Users\mrasm\source\repos\OOPKapsul\obj\Debug\OOPKapsul.Properties.Resources.resources
+C:\Users\mrasm\source\repos\OOPKapsul\obj\Debug\OOPKapsul.csproj.GenerateResource.cache
+C:\Users\mrasm\source\repos\OOPKapsul\obj\Debug\OOPKapsul.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\OOPKapsul\obj\Debug\OOPKapsul.exe
+C:\Users\mrasm\source\repos\OOPKapsul\obj\Debug\OOPKapsul.pdb

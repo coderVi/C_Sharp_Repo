@@ -1,0 +1,10 @@
+C:\Users\mrasm\source\repos\OOPInheritance\bin\Debug\OOPInheritance.exe.config
+C:\Users\mrasm\source\repos\OOPInheritance\bin\Debug\OOPInheritance.exe
+C:\Users\mrasm\source\repos\OOPInheritance\bin\Debug\OOPInheritance.pdb
+C:\Users\mrasm\source\repos\OOPInheritance\obj\Debug\OOPInheritance.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\OOPInheritance\obj\Debug\OOPInheritance.Form1.resources
+C:\Users\mrasm\source\repos\OOPInheritance\obj\Debug\OOPInheritance.Properties.Resources.resources
+C:\Users\mrasm\source\repos\OOPInheritance\obj\Debug\OOPInheritance.csproj.GenerateResource.cache
+C:\Users\mrasm\source\repos\OOPInheritance\obj\Debug\OOPInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\OOPInheritance\obj\Debug\OOPInheritance.exe
+C:\Users\mrasm\source\repos\OOPInheritance\obj\Debug\OOPInheritance.pdb

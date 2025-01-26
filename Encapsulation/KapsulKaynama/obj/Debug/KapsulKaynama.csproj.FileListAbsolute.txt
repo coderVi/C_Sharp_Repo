@@ -1,0 +1,10 @@
+C:\Users\mrasm\source\repos\KapsulKaynama\bin\Debug\KapsulKaynama.exe.config
+C:\Users\mrasm\source\repos\KapsulKaynama\bin\Debug\KapsulKaynama.exe
+C:\Users\mrasm\source\repos\KapsulKaynama\bin\Debug\KapsulKaynama.pdb
+C:\Users\mrasm\source\repos\KapsulKaynama\obj\Debug\KapsulKaynama.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\KapsulKaynama\obj\Debug\KapsulKaynama.Form1.resources
+C:\Users\mrasm\source\repos\KapsulKaynama\obj\Debug\KapsulKaynama.Properties.Resources.resources
+C:\Users\mrasm\source\repos\KapsulKaynama\obj\Debug\KapsulKaynama.csproj.GenerateResource.cache
+C:\Users\mrasm\source\repos\KapsulKaynama\obj\Debug\KapsulKaynama.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\KapsulKaynama\obj\Debug\KapsulKaynama.exe
+C:\Users\mrasm\source\repos\KapsulKaynama\obj\Debug\KapsulKaynama.pdb
